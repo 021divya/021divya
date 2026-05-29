@@ -1,4 +1,11 @@
-## Hi there 👋
+<div align="center">
+
+# Hi 👋, I'm Divya Chauhan
+
+</div>
+
+---
+
 # 💫 About Me:
 🔭 I'm a senior in CS Branch, Banasthali Vidyapith.<br>👯 I’m looking to collaborate on open-source projects.<br>🤝 I'm looking for help with ideas for core CS projects involving DSA, system design, or full-stack development. <br>🌱 I’m currently learning MERN Stack.<br>💬 Ask me about LLMs.
 
